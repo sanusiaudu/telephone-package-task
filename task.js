@@ -30,7 +30,6 @@ class Telephone {
       }
     }
 }
-  
 
 class DisplayNumberObserver {
     notify(phoneNumber) {
